@@ -37,7 +37,10 @@ h1 {
   font-variation-settings: 'wght' 850;
 }
 h2 {
-  font-variation-settings: 'wght' 750;
+  font-variation-settings: 'wght' 540;
+  letter-spacing: -0.05em;
+  color: #969699;
+  
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
