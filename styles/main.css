@@ -22,6 +22,7 @@ body {
   font-feature-settings: 'case' 1, 'cpsp' 1, 'dlig' 1, 'cv01' 1, 'cv02',
     'cv03' 1, 'cv04' 1;
   font-variation-settings: 'wght' 480;
+  color: #232344;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.01em;
 }
